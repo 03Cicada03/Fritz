@@ -4,6 +4,7 @@
 <br>  
 
 
-**# Konnichiwa i'm Fritz**
+**# Konnichiwa i'm Fritz👋**
+<br>
 🔒👾Me Aspiring Penetration Tester | Interested in Web Application Security | Ethical Hacker.🤖🔓
 </body>
