@@ -4,12 +4,9 @@
 <br>  
 
 
-<h1 id="ellementHello"># Konnichiwa i'm Fritz👋#</h1>
+<h1 style="color: red;"># Konnichiwa i'm Fritz👋#</h1>
 <br>
 <h2>🔒👾Me Aspiring Penetration Tester | Interested in Web Application Security | Ethical Hacker.🤖🔓</h2>
+
+
 </body>
-<style>
-  .ellementHello{
-    color:red;
-  }
-</style>
