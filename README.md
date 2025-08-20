@@ -14,7 +14,7 @@
 I'm 21 years old and I'm a cybersecurity enthusiast from Kazakhstan. I'm an aspiring ethical hacker and my goal is to become an expert in this field. I'm fascinated by both defensive and offensive security, and the challenge of protecting and attacking systems.
   <br>
   <br>
-<b>👨‍💻⚙️Languages & Technologies⚙️👨‍💻</b>
+<h2>👨‍💻⚙️Languages & Technologies⚙️👨‍💻</h2>
 
   <br>
   <br>
@@ -29,5 +29,6 @@ I'm 21 years old and I'm a cybersecurity enthusiast from Kazakhstan. I'm an aspi
 
 ***<b>I also have experience working with CMS platforms like Tilda and WordPress.</b>***
 
+<h2 align="center">      📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 </body>
